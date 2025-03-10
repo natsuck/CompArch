@@ -1,8 +1,8 @@
 # Computer Systems Architecture 
 
-<h2>cloud_project</h2>
+<h2>Structure</h2>
 <pre>
-├── infra
+├── cloud_project/infra
 │   └── ... (Terraform implementations and related files)
 └── README.md
 </pre>
