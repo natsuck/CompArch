@@ -1,9 +1,8 @@
-# CompArch
+# Computer Systems Architecture 
 
-#cloud_project/
-│── infra/
-│   ├── .terraform.lock.hcl      
-│   ├── main.tf                   # Main Terraform script
-│   ├── terraform.tfstate        
-│   ├── terraform.tfstate.backup
-│── README.md          
+<h2>cloud_project</h2>
+<pre>
+├── infra
+│   └── ... (Terraform implementations and related files)
+└── README.md
+</pre>
